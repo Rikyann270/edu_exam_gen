@@ -103,7 +103,7 @@ INSTRUCTIONS:
 2. DO NOT include a title/name/school header — those are on the cover page. Start at SECTION A.
 3. Number all questions clearly.
 4. After EVERY question add dotted answer lines:
-   Short answer (1 line):  ...................................................................................................................
+   Short answer (1 line):  ..................................................................................................................
    Medium (2 lines): two such rows. Long/essay (4+ lines): four rows.
    Multiple choice: list A B C D cleanly — no dots needed.
 5. Adjust to difficulty ({difficulty}) and logic level ({logic_level}).
