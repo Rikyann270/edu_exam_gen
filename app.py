@@ -17,7 +17,7 @@ load_dotenv() # Load variables from .env if present
 os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY", "")
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DB_DIR = os.path.join(BASE_DIR, "chroma_db")
-CHROMA_ZIP_URL = "https://YOUR_DIRECT_DOWNLOAD_LINK_HERE" # Replace with your direct download link
+CHROMA_ZIP_URL = "https://storage.googleapis.com/scholar-bucket-n/chroma_db.zip" #GCS URL
 
 def download_and_unzip_db():
     """Downloads the ChromaDB zip if it doesn't exist and unzips it."""
