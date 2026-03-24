@@ -1,0 +1,7 @@
+chroma_db/
+extracted_syllabus_data.json
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+*.zip
